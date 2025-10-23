@@ -1,4 +1,4 @@
-:wave Hello! This is Huang Sha.
+:wave: Hello! This is Huang Sha.
 
 I am working in the energy commodities trading sector, with a focus on Liquefied Natural Gas (LNG). More information can be found at my [LinkedIn](https://linkedin.com/in/huang-sha) page.
 
