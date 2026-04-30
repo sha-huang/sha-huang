@@ -1,9 +1,14 @@
-:wave: Hello! This is Huang Sha.
+### :wave: Hello! This is Sha.
 
-I work in the energy commodities trading industry, with a focus on Liquefied Natural Gas (LNG). More information can be found on my [LinkedIn](https://linkedin.com/in/huang-sha) page.
+Please find a self-introduction at my person website: [sha-huang.github.io](https://sha-huang.github.io)
 
-I am passionate about computer science and have been learning on my own:
-- Theory foundations: data structure and algorithms, computer architecture, operating systems, statistical machine learning, deep learning, reinforcement learning
-- Statically typed languages: C, Java
-- Dynamically typed languages: Python (and libraries), JavaScript
-- Database: PostgreSQL
+I work in the energy commodities trading industry, with a focus on Liquefied Natural Gas (LNG). More information on my [LinkedIn](https://linkedin.com/in/huang-sha) page.
+
+Driven by a passion for computer science, I have been learning:
+| Area | Details |
+| -- | -- |
+| Theory foundations | data structure and algorithms<br>computer architecture<br>operating systems<br>programming languages theory<br>statistical machine learning<br>deep learning<br>reinforcement learning |
+| Statically typed languages | C, Java |
+| Dynamically typed languages | Python (and libraries), JavaScript |
+| Database | PostgreSQL |
+| Systems and tools | Linux, git, LaTeX |
