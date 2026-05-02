@@ -4,11 +4,17 @@ Please find a self-introduction at my person website: [sha-huang.github.io](http
 
 I work in the energy commodities trading industry, with a focus on Liquefied Natural Gas (LNG). More information on my [LinkedIn](https://linkedin.com/in/huang-sha) page.
 
-Driven by a passion for computer science, I have been learning:
+Driven by a passion for computer science, I have studied:
 | Area | Details |
 | -- | -- |
-| Theory foundations | data structure and algorithms<br>computer architecture<br>operating systems<br>programming languages theory<br>statistical machine learning<br>deep learning<br>reinforcement learning |
+| Theory foundations | <ul><li>Data structure and algorithms</li><li>Computer architecture</li><li>Operating systems</li><li>Programming languages theory</li><li>Statistical machine learning</li><li>Deep learning</li></ul> |
 | Statically typed languages | C, Java |
 | Dynamically typed languages | Python (and libraries), JavaScript |
 | Database | PostgreSQL |
-| Systems and tools | Linux, git, LaTeX |
+| Systems and tools | Linux, git, $\LaTeX$ |
+
+<br>
+
+Currently learning:
+- Rust
+- Reinforcement learning
