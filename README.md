@@ -8,7 +8,7 @@ Driven by a passion for computer science, I studied:
 
 | Area | Details |
 | -- | -- |
-| Theory foundations | <ul><li>Data structure and algorithms</li><li>Computer architecture</li><li>Operating systems</li><li>Programming languages theory</li><li>Statistical machine learning</li><li>Deep learning</li></ul> |
+| Theory foundations | <ul><li>Data structures and algorithms</li><li>Computer architecture</li><li>Operating systems</li><li>Programming languages theory</li><li>Statistical machine learning</li><li>Deep learning</li></ul> |
 | Statically typed languages | <ul><li>C</li><li>Java</li></ul> |
 | Dynamically typed languages | <ul><li>Python (and libraries)</li><li>JavaScript</li></ul> |
 | Database | <ul><li>PostgreSQL</li></ul> |
