@@ -9,7 +9,7 @@ Driven by a passion for computer science, I studied:
 | Area | Details |
 | -- | -- |
 | Theory foundations | <ul><li>Data structures and algorithms</li><li>Computer architecture</li><li>Operating systems</li><li>Programming languages theory</li><li>Statistical machine learning</li><li>Deep learning</li></ul> |
-| Statically typed languages | <ul><li>C</li><li>Java</li></ul> |
+| Statically typed languages | <ul><li>C</li><li>Java</li><li>Rust</li></ul> |
 | Dynamically typed languages | <ul><li>Python (and libraries)</li><li>JavaScript</li></ul> |
 | Database | <ul><li>PostgreSQL</li></ul> |
 | Systems and tools | <ul><li>Linux</li><li>Git</li><li>$\LaTeX$</li></ul> |
@@ -17,6 +17,6 @@ Driven by a passion for computer science, I studied:
 <br>
 
 Currently learning:
-- Rust
 - Reinforcement learning
-- Agentic AI (my [notes](https://github.com/sha-huang/ucb_agentic_ai) of the UC Berkeley CS294/194-196 guest lecture series on GitHub)
+- Agentic AI (my [notes](https://github.com/sha-huang/ucb_agentic_ai) of the UC Berkeley CS294/194-196 guest lecture series)
+- Harness engineering (building [minimalist SWE Agent CLI](https://github.com/sha-huang/agent-code))
